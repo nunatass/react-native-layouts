@@ -1,0 +1,16 @@
+{
+  "name": "expoDogAppLayout",
+  "displayName": "expoDogAppLayout",
+  "expo": {
+    "name": "expoDogAppLayout",
+    "slug": "expoDogAppLayout",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
