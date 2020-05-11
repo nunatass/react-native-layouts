@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "myApp.app"
-               BlueprintName = "myApp"
-               ReferencedContainer = "container:myApp.xcodeproj">
+               BuildableName = "expoDogAppLayout.app"
+               BlueprintName = "expoDogAppLayout"
+               ReferencedContainer = "container:expoDogAppLayout.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "myAppTests.xctest"
-               BlueprintName = "myAppTests"
-               ReferencedContainer = "container:myApp.xcodeproj">
+               BuildableName = "expoDogAppLayoutTests.xctest"
+               BlueprintName = "expoDogAppLayoutTests"
+               ReferencedContainer = "container:expoDogAppLayout.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "myAppTests.xctest"
-               BlueprintName = "myAppTests"
-               ReferencedContainer = "container:myApp.xcodeproj">
+               BuildableName = "expoDogAppLayoutTests.xctest"
+               BlueprintName = "expoDogAppLayoutTests"
+               ReferencedContainer = "container:expoDogAppLayout.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "myApp.app"
-            BlueprintName = "myApp"
-            ReferencedContainer = "container:myApp.xcodeproj">
+            BuildableName = "expoDogAppLayout.app"
+            BlueprintName = "expoDogAppLayout"
+            ReferencedContainer = "container:expoDogAppLayout.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "myApp.app"
-            BlueprintName = "myApp"
-            ReferencedContainer = "container:myApp.xcodeproj">
+            BuildableName = "expoDogAppLayout.app"
+            BlueprintName = "expoDogAppLayout"
+            ReferencedContainer = "container:expoDogAppLayout.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "myApp.app"
-            BlueprintName = "myApp"
-            ReferencedContainer = "container:myApp.xcodeproj">
+            BuildableName = "expoDogAppLayout.app"
+            BlueprintName = "expoDogAppLayout"
+            ReferencedContainer = "container:expoDogAppLayout.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

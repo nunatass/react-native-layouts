@@ -1,4 +1,4 @@
-package com.myapp;
+package com.expoDogAppLayout;
 
 import android.os.Bundle;
 

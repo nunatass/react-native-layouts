@@ -40,10 +40,11 @@ export const DogRace = styled.Text`
   margin-top: 15px;
 `;
 export const DogAgeAndGender = styled.View`
-  left: 120px;
+  flex: 1;
 `;
 export const DogAge = styled.Text`
   font-size: 20px;
+  align-self: flex-end;
   text-transform: uppercase;
   color: #386363;
   font-weight: bold;
@@ -53,6 +54,7 @@ export const DogGender = styled.Text`
   color: #386363;
   font-weight: 500;
   margin-top: 15px;
+  align-self: flex-end;
 `;
 
 export const CrdBody = styled.View`
