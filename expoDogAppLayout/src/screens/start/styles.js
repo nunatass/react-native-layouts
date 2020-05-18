@@ -2,7 +2,7 @@ import styled from "styled-components/native";
 import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
-  gradiente: {
+  gradient: {
     flex: 1,
   },
 });

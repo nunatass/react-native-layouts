@@ -14,12 +14,12 @@ import styles, {
   DogAgeAndGender,
   DogAge,
   DogGender,
-  CrdBody,
+  CardBody,
   CardOwnerInfo,
-  OnwerPicture,
+  OwnerPicture,
   OwnerName,
   Date,
-  CradDescroption,
+  CardDescription,
   CardBtn,
   BtnTitle,
 } from "./styles";
@@ -44,22 +44,22 @@ export default function Home() {
             <DogGender>male</DogGender>
           </DogAgeAndGender>
         </CardHead>
-        <CrdBody>
+        <CardBody>
           <CardOwnerInfo>
-            <OnwerPicture source={ownerPic} />
+            <OwnerPicture source={ownerPic} />
             <OwnerName>John Doe</OwnerName>
             <Date>18 Oct 2019</Date>
           </CardOwnerInfo>
-          <CradDescroption>
+          <CardDescription>
             Hundreds of pets are abandoned and rescued in India everyday.
             Although there are many wonderful souls across the nation who work
             extra hours and put in efforts beyond their capacity, there is
             always a shortage
-          </CradDescroption>
+          </CardDescription>
           <CardBtn>
             <BtnTitle>Adoption</BtnTitle>
           </CardBtn>
-        </CrdBody>
+        </CardBody>
       </Card>
     </LinearGradient>
   );

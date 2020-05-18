@@ -14,7 +14,7 @@ export const DogImage = styled.Image``;
 
 export const Card = styled.View`
   position: absolute;
-  width: 380px;
+  width: 90%;
   height: 421px;
   background-color: #fff;
   border-radius: 30px;
@@ -57,38 +57,38 @@ export const DogGender = styled.Text`
   align-self: flex-end;
 `;
 
-export const CrdBody = styled.View`
+export const CardBody = styled.View`
   margin-top: 15px;
 `;
 export const CardOwnerInfo = styled.View`
   margin-top: 15px;
   flex-direction: row;
+  justify-content: space-between;
 `;
-export const OnwerPicture = styled.Image`
+export const OwnerPicture = styled.Image`
   width: 50px;
   height: 50px;
   border-radius: 25px;
 `;
 export const OwnerName = styled.Text`
-  margin-left: 15px;
   color: #4a4a4a;
   font-size: 16px;
   font-weight: bold;
+  margin-left: -30%;
 `;
 export const Date = styled.Text`
   color: #4a4a4a;
   font-size: 14px;
-  left: 125px;
 `;
-export const CradDescroption = styled.Text`
+export const CardDescription = styled.Text`
   margin-top: 15px;
   color: #4a4a4a;
   font-size: 12px;
   line-height: 28px;
+  margin-bottom: 20px;
 `;
 
 export const CardBtn = styled.TouchableOpacity`
-  top: 40px;
   width: 246px;
   height: 46px;
   align-self: center;
